@@ -1,4 +1,4 @@
- '{
+{
   "name": "ConnectSphere",
   "short_name": "Sphere",
   "description": "A social chat and media app",
@@ -18,3 +18,5 @@
       "type": "image/png"
     }
   ]
+}
+
