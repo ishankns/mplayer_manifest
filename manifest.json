@@ -2,21 +2,20 @@
   "name": "ConnectSphere",
   "short_name": "Sphere",
   "description": "A social chat and media app",
-  "start_url": "/chatapp/index.html",
+  "start_url": "/index.html", // Relative to https://yourusername.github.io/connectsphere-manifest/
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#1e1e1e",
   "icons": [
     {
-      "src": "logo192.png",
+      "src": "https://mplayer.wuaze.com/chatapp/logo192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "logo512.png",
+      "src": "https://mplayer.wuaze.com/chatapp/logo512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
 }
-
